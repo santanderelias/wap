@@ -1,0 +1,62 @@
+/* Global CSS RULES */
+*{  
+    margin: 0;  
+    padding: 0;  
+    }      
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 235, 235);
+}
+#nav {
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    width:auto;
+}
+
+/* Create the Outer layout of the Calculator. */  
+.formstyle  
+{  
+width: 300px;  
+height: 370px;  
+margin: 20px auto;  
+border: 3px solid rgb(182, 183, 184);  
+border-radius: 5px;  
+padding: 20px;  
+text-align: center;  
+background-color: rgb(65, 65, 65);  
+}  
+/* Display top horizontal bar that contain some information. */  
+h1.title {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: rgb(202, 202, 202);  
+    color: white;  
+    }  
+input:hover  
+{  
+background-color: rgb(177, 177, 177);  
+}  
+      
+/* It is used to create the layout for calculator button. */  
+.calcbtn{  
+width: 50px;  
+height: 50px;  
+font-size: 25px;  
+margin: 2px;  
+cursor: pointer;  
+background-color: rgb(158, 158, 158);  
+color: white;  
+  
+}  
+  
+/* It is used to display the numbers, operations and results. */  
+.textview{  
+width: 223px;  
+margin: 5px;  
+font-size: 25px;  
+padding: 5px;  
+background-color: rgb(206, 206, 206);  
+}     
+
+/* end calculator */
