@@ -1,5 +1,5 @@
 /* Global JS */
-
+console.log('a work in progress  \n v0.1');
 
 
 // Calculator
