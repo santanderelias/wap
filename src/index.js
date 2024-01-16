@@ -1,7 +1,8 @@
 /* Global JS */
-console.log('a work in progress  \n v0.1');
+console.log('a work in progress  \n v0.1')
 
-
+// vars
+const calculatore = document.getElementById('calculatore')
 // Calculator
 // Use insert() function to insert the number in textview.  
 function insert(num)   
