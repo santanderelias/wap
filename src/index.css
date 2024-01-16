@@ -13,10 +13,6 @@ body {
     bottom: 0;
     width:auto;
 }
-/* items hidden */
-#calculatore {
-    display: hidden;
-}
 
 /* Create the Outer layout of the Calculator. */  
 .formstyle  
@@ -64,3 +60,8 @@ background-color: rgb(206, 206, 206);
 }     
 
 /* end calculator */
+
+/* items hidden */
+#calculatore {
+    display: hidden;
+}
