@@ -13,6 +13,10 @@ body {
     bottom: 0;
     width:auto;
 }
+/* items hidden */
+#calculatore {
+    display: hidden;
+}
 
 /* Create the Outer layout of the Calculator. */  
 .formstyle  
