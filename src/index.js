@@ -1,5 +1,5 @@
 /* Global JS */
-console.log('a work in progress  \n v0.1')
+console.log('a work in progress  \nv0.1')
 
 // vars
 const calculatore = document.getElementById('calculatore')
